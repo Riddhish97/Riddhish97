@@ -1,5 +1,5 @@
 <h2 align="center">
-𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="28px"> 
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=450&lines=I'm+Riddhish+Rajgor;Full+Stack+Web+Dev;And+Techpreneur;Nice+To+Meet+You...+%3A&#41;)](https://git.io/typing-svg)
 </h2>
