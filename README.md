@@ -17,8 +17,6 @@
 
 ## 📊 Github stats
 
-  
-![Riddhish's GitHub stats](https://github-readme-stats.vercel.app/api?username=riddhish97&count_private=true&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhish97&layout=compact&theme=react&show_icons=true)](https://github.com/Riddhish97/4-In-A-Line)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riddhish97&repo=4-In-A-Line&theme=react&show_icons=true)](https://github.com/Riddhish97/4-In-A-Line) -->
   <br/>
