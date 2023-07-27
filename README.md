@@ -9,7 +9,7 @@
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/mr_rajgor1997?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 <a href="https://github.com/riddhish97">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/riddhish97?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-<a href="https://linkedin.com/in/riddhish-rajgor-303814102/">
+<a href="https://www.linkedin.com/in/riddhish-rajgor">
     <img alt="followers" title="Connect me on Linkdein" src="https://img.shields.io/badge/riddhish-rajgor-303814102?color=2077b5&labelColor=0f95f5&style=for-the-badge&logo=linkedin&logoColor=white&label=Follow"/></a>
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friddhish97%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://github.com/Riddhish97/Riddhish97)
