@@ -69,19 +69,12 @@
 
 </p>
 
-## 🔥Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p  align="center>
-           
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=riddhish97&theme=dark)](https://git.io/streak-stats)
-</p>
            
 <p>
         
 For enquiries, reach out
-    <a href="https://twitter.com/mr_rajgor1997"> @mr_rajgor1997 </a>
-    over on Twitter.
+    <a href="https://www.linkedin.com/in/riddhish-rajgor/"> @riddhish-rajgor </a>
+    over on Linkedin.
     </p>
 ### What I Do?
 Making Awesome Thing For Awesome People!
