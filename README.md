@@ -68,7 +68,7 @@
     <a href="#"><img alt="Twilio" src="https://img.shields.io/badge/Twilio-a30c19.svg?logo=twilio&logoColor=white"></a>
 
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhish97&" alt="riddhish97" /></p>
+<p></p>
            
 <p>
         
