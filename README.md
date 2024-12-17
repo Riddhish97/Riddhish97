@@ -67,9 +67,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Twilio" src="https://img.shields.io/badge/Twilio-a30c19.svg?logo=twilio&logoColor=white"></a>
 
-</p>
-<p></p>
-           
+</p>      
 <p>
         
 For enquiries, reach out
