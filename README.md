@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/riddhish-rajgor">
     <img alt="followers" title="Connect me on Linkdein" src="https://img.shields.io/badge/riddhish-rajgor-303814102?color=2077b5&labelColor=0f95f5&style=for-the-badge&logo=linkedin&logoColor=white&label=Follow"/></a>
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friddhish97%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://github.com/Riddhish97/Riddhish97)
 </p>
 
 ## 🛠️ My favorite tools
